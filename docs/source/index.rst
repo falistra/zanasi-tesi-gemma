@@ -1,30 +1,33 @@
-Il museo Gemma di Modena: indagine statistica conoscitiva sui frequentatori 
-===========================================================================
+.. rst-class:: center
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+*Il museo Gemma di Modena*
+==========================
+**Indagine statistica conoscitiva sui frequentatori** 
+======================================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. image:: images/logo_unimore.png
+  :width: 100
+
+.. image:: images/banner_unimore.png
+  :width: 200
+
+.. rst-class:: center
+
+**Laurea Magistrale in Didattica e Comunicazione delle Scienze**
+ **Tesi di Laurea di Fausto Zanasi - matricola 154554**
+   *Anno Accademico 2021-2022*
 
 .. note::
 
    Questo documento è in stato di bozza soggetto a modifiche.
 
-Contents
---------
+.. rst-class:: left
 
+Contenuti
+---------
 .. toctree::
-   :maxdepth: 2
-   :glob:
-   :hidden:   
-
+   :maxdepth: 5
+ 
    introduzione
    dati
    stat
-   usage
-   api
-
-

@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Museo Gemma: indagine statistica conoscitiva sui frequentatori'
 copyright = '2022, Fausto Zanasi'
 author = 'Fausto Zanasi'
 
@@ -35,3 +35,6 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+html_static_path = ['_static']
+html_css_files = ['css/custom.css']
