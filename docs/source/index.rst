@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Il museo Gemma di Modena: indagine statistica conoscitiva sui frequentatori 
+===========================================================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -11,12 +11,20 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Questo documento è in stato di bozza soggetto a modifiche.
 
 Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :glob:
+   :hidden:   
 
+   introduzione
+   dati
+   stat
    usage
    api
+
+
