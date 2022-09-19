@@ -1,4 +1,4 @@
-É soddisfatto della cortesia e competenza del personale?
+È soddisfatto della cortesia e competenza del personale?
 ========================================================
 
 .. image:: images/SoddisfattoPersonale.png

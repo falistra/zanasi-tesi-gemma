@@ -29,5 +29,5 @@ Contenuti
    :maxdepth: 5
  
    introduzione
-   dati
+   sondaggio
    stat

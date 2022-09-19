@@ -1,4 +1,4 @@
-É soddisfatto del percorso?
+È soddisfatto del percorso?
 ===========================
 
 .. image:: images/SoddisfattoPercorso.png

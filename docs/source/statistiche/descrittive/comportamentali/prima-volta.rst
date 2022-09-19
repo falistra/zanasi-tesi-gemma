@@ -1,4 +1,4 @@
-É la prima volta che visita il Museo Gemma?
+È la prima volta che visita il Museo Gemma?
 ===========================================
 
 .. image:: images/PrimaVolta.png

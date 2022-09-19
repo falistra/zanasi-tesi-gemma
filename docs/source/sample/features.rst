@@ -1,13 +1,200 @@
-Features
-========
+Domande
+=======
+
+La tabella seguente contiene la liste delle coppie codice-testo delle domande.
+
+.. list-table:: Domande e risposte
+   :widths: 15 85
+   :header-rows: 1
+
+   * - Codice 
+     - Testo 
+   * - D1
+     - È la prima volta che visita il Museo Universitario Gemma?
+   * - D2
+     - Come ne è venuto a conoscenza?
+   * - D3
+     - Con chi ha visitato il Museo?
+   * - D4
+     - Per quale motivo ha visitato il Museo?
+   * - D5
+     - Dove abita?
+   * - D6
+     - Sesso
+   * - D7
+     - Età
+   * - D8
+     - Qual è il suo titolo di studio?
+   * - D9
+     - Quanto tempo è durata la visita alla mostra CONFINI?
+   * - D10
+     - In generale è soddisfatto della visita?
+   * - D11
+     - Come si ritiene soddisfatto del percorso mostra ?
+   * - D12
+     - Come si ritiene soddisfatto della visita guidata 
+   * - D13
+     - Come si ritiene soddisfatto della cortesia e competenza del personale ?
+   * - D14
+     - Quale è il tema della mostra CONFINI che ha trovato di maggior interesse
+   * - D15
+     - Quale è il tema parola chiave della mostra CONFINI che è rimasto più impresso
+   * - D16
+     - Altre osservazioni e suggerimenti
+
+La tabella seguente mostra la relazione tra (il codice del)le domande e 
+la codifica delle risposte.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur odio in mi blandit, et rhoncus mauris porta. Curabitur vel dapibus velit. Suspendisse mattis, nulla non fermentum tempor, augue lacus tempus orci, sed mollis ex massa quis diam. Sed sed mi eget velit convallis imperdiet vel sed tellus. Fusce condimentum facilisis ex, non lacinia tortor convallis nec. Vivamus pharetra turpis sed vehicula gravida. Integer ullamcorper viverra ipsum et finibus. Fusce sem leo, fringilla sit amet viverra vel, dapibus elementum sem. Suspendisse id maximus neque. Donec fringilla cursus ultricies. Sed dui nibh, lacinia vehicula justo nec, porttitor facilisis nunc. Praesent enim mauris, eleifend vitae orci vel, faucibus posuere est. Nulla arcu lorem, condimentum vel est et, interdum commodo ante.
+.. code-block:: python
 
-Morbi nunc nibh, laoreet eget diam in, aliquam luctus turpis. Duis dapibus aliquet urna quis ultricies. In accumsan sem vel metus tincidunt, eu venenatis tellus iaculis. Maecenas ornare nisl nec justo rhoncus, et auctor est convallis. Quisque sapien mi, sollicitudin non maximus sed, auctor et leo. Suspendisse potenti. Nam vehicula justo elit, vitae convallis mauris faucibus ut. Pellentesque efficitur feugiat magna ut efficitur.
+    risposte = {
+    'D1':   {
+        1:"Sì",
+        2:"No",
+        pd.NA:"Non risponde"
+    },
+    'D2a' : {
+        1:'Da mio figlio/a, nipote',
+        2: 'Da amici/parenti',
+        3: 'Attraverso Internet',
+        4: 'Da un pieghevole/locandina',
+        5: 'Da un articolo su una rivista/giornale',
+        6: 'Dalla radio/TV ',
+        7: 'Casualmente, passando davanti al Museo',
+        8: 'Conoscevo già il Museo',
+        9: 'Altro ',
+        pd.NA:"Non risponde"
+        },
+    'D2b' : {
+        1:'Da mio figlio/a, nipote',
+        2: 'Da amici/parenti',
+        3: 'Attraverso Internet',
+        4: 'Da un pieghevole/locandina',
+        5: 'Da un articolo su una rivista/giornale',
+        6: 'Dalla radio/TV ',
+        7: 'Casualmente, passando davanti al Museo',
+        8: 'Conoscevo già il Museo',
+        9: 'Altro ',
+        pd.NA:"Non risponde"
+        },
+    'D2c' : {
+        1:'Da mio figlio/a, nipote',
+        2: 'Da amici/parenti',
+        3: 'Attraverso Internet',
+        4: 'Da un pieghevole/locandina',
+        5: 'Da un articolo su una rivista/giornale',
+        6: 'Dalla radio/TV ',
+        7: 'Casualmente, passando davanti al Museo',
+        8: 'Conoscevo già il Museo',
+        9: 'Altro ',
+        pd.NA:"Non risponde"
+        },
+    'D3' :  {
+        1: 'In gruppo organizzato',
+        2: 'Da solo',
+        3: 'In coppia',
+        4: 'Con figli/nipoti',
+        5: 'Con parenti/amici',
+        pd.NA:"Non risponde"
+        },
+    'D4a' :  {
+        1: 'Interesse specifico sulla raccolta',
+        2: 'Come parte di una visita turistica nella zona/città',
+        3: 'Interesse di studio/professionale',
+        4: 'Per accompagnare amici/conoscenti',
+        5: 'Per visitare una mostra o partecipare ad una iniziativa in corso',
+        6: 'Per trascorrere del tempo libero',
+        7: 'Docente di una classe in visita',
+        9: 'Altro',
+        pd.NA:"Non risponde"
+        },
+    'D4b' :  {
+        1: 'Interesse specifico sulla raccolta',
+        2: 'Come parte di una visita turistica nella zona/città',
+        3: 'Interesse di studio/professionale',
+        4: 'Per accompagnare amici/conoscenti',
+        5: 'Per visitare una mostra o partecipare ad una iniziativa in corso',
+        6: 'Per trascorrere del tempo libero',
+        7: 'Docente di una classe in visita',
+        9: 'Altro',
+        pd.NA:"Non risponde"
+        },
+    'D4c' :  {
+        1: 'Interesse specifico sulla raccolta',
+        2: 'Come parte di una visita turistica nella zona/città',
+        3: 'Interesse di studio/professionale',
+        4: 'Per accompagnare amici/conoscenti',
+        5: 'Per visitare una mostra o partecipare ad una iniziativa in corso',
+        6: 'Per trascorrere del tempo libero',
+        7: 'Docente di una classe in visita',
+        9: 'Altro',
+        pd.NA:"Non risponde"
+        },
+    'D5' :  {
+        1:'In questa provincia',
+        2:'In Italia (indicare la provincia)',
+        3:'All’estero',
+        pd.NA:"Non risponde"
+        },
+    'D6':   {
+        1:"Maschio",
+        2:"Femmina",
+        3:"Femmina",
+        "All":'Totale', 
+        pd.NA:"Non risponde"
+        },
+    'D7':   {
+        1:"Meno di 18",
+        2:"Tra 18 e 30",
+        3:"Tra 31 e 45",
+        4:"Tra 46 e 65",
+        5:"Più di 65",
+        "All":'Totale',
+        pd.NA:"Non risponde"
+        }, 
+    'D8' : {
+        1: 'Elementare',
+        2: 'Medie inferiori',
+        3: 'Diploma medie superiori',
+        4: 'Laurea o titoli post-laurea',
+        5: 'Nessuno',
+        pd.NA:"Non risponde"
+        },
+    'D9' : {
+        1:'Meno di 30 minuti',
+        2:'Da 30 minuti a 1 ora',
+        3:'Da 1 a 2 ore',
+        4:'Più di 2 ore',
+        pd.NA:"Non risponde"  
+        },
+    'D10' : {
+        1:'Per niente',
+        2:'Poco',
+        3:'Abbastanza',
+        4:'Molto',
+        pd.NA:"Non risponde"
+        },
+    'D11': {
+        1:'Per niente',
+        2:'Poco',
+        3:'Abbastanza',
+        4:'Molto',
+        pd.NA:"Non risponde"
+        },
+    'D12': {
+        1:'Per niente',
+        2:'Poco',
+        3:'Abbastanza',
+        4:'Molto',
+        pd.NA:"Non risponde"
+        },
+    'D13': {
+        1:'Per niente',
+        2:'Poco',
+        3:'Abbastanza',
+        4:'Molto',
+        pd.NA:"Non risponde"
+        }
+    }
 
-Nam vestibulum dignissim urna, quis sodales nisi sollicitudin in. Fusce ac mi eros. Curabitur suscipit enim nec sapien convallis tristique. Aenean sed vestibulum turpis. Vestibulum eget vulputate sapien. Suspendisse dignissim purus eget condimentum commodo. Nulla facilisi. Cras suscipit lorem semper pulvinar eleifend. Integer placerat iaculis sapien non posuere. Nunc ac sapien mollis turpis consequat venenatis. Morbi ut nisl arcu. Suspendisse pretium tellus vel massa lobortis condimentum.
-
-Maecenas in lobortis tortor, vitae dignissim nunc. Cras consectetur iaculis accumsan. Fusce tincidunt augue vehicula venenatis faucibus. Duis facilisis, orci et tincidunt accumsan, nulla massa commodo leo, nec pulvinar diam purus a magna. Sed dignissim metus quis sapien congue iaculis. Aliquam sit amet interdum velit. Ut sagittis ut lorem a malesuada. Ut commodo efficitur blandit. Nulla metus nulla, ullamcorper sit amet elit ut, efficitur luctus nisi. Pellentesque eu arcu vel lorem luctus rutrum sed sed mi. Cras id scelerisque erat, sollicitudin molestie nisl.
-
-Sed eros erat, accumsan quis placerat non, fringilla rutrum est. In vestibulum efficitur risus vitae vehicula. Mauris sagittis auctor ex, sit amet viverra erat porttitor ac. Nam bibendum massa non hendrerit malesuada. Sed sapien massa, dapibus nec elementum ac, fringilla non felis. Praesent efficitur ultricies venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ac metus ac dolor imperdiet tempor. Nulla placerat mattis dictum. Aliquam elementum dui ac mi tristique imperdiet. Donec tortor lorem, euismod ac nunc vitae, dignissim congue ipsum. Nunc in nisl a eros luctus sollicitudin. Morbi convallis luctus dui, sit amet venenatis diam iaculis congue. Vestibulum suscipit semper est a viverra. Integer ac sagittis dolor, at convallis odio.

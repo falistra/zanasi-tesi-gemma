@@ -1,4 +1,4 @@
-É soddisfatto della visita?
+È soddisfatto della visita?
 ===========================
 
 .. image:: images/Soddisfatto.png
