@@ -12,9 +12,6 @@ Maecenas in lobortis tortor, vitae dignissim nunc. Cras consectetur iaculis accu
 Sed eros erat, accumsan quis placerat non, fringilla rutrum est. In vestibulum efficitur risus vitae vehicula. Mauris sagittis auctor ex, sit amet viverra erat porttitor ac. Nam bibendum massa non hendrerit malesuada. Sed sapien massa, dapibus nec elementum ac, fringilla non felis. Praesent efficitur ultricies venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce ac metus ac dolor imperdiet tempor. Nulla placerat mattis dictum. Aliquam elementum dui ac mi tristique imperdiet. Donec tortor lorem, euismod ac nunc vitae, dignissim congue ipsum. Nunc in nisl a eros luctus sollicitudin. Morbi convallis luctus dui, sit amet venenatis diam iaculis congue. Vestibulum suscipit semper est a viverra. Integer ac sagittis dolor, at convallis odio.
 
 .. toctree::
-   :maxdepth: 2
-   :glob:
-   :hidden:   
 
    descrittive/anagrafiche
    descrittive/comportamentali
