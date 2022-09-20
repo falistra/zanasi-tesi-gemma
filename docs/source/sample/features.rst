@@ -2,6 +2,9 @@ Domande
 =======
 
 La tabella seguente contiene la liste delle coppie codice-testo delle domande.
+Ogni domanda, in senso statistico, corrisponde a una *variabile*, le risposte sono 
+i suoi possibili valori.
+
 
 .. list-table:: Domande e risposte
    :widths: 15 85

@@ -1,0 +1,40 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Fausto Zanasi
+# This file is distributed under the same license as the Museo Gemma:
+# indagine statistica conoscitiva sui frequentatori package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Museo Gemma: indagine statistica conoscitiva sui "
+"frequentatori 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-20 07:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/sample/dati.rst:2
+msgid "Dati"
+msgstr ""
+
+#: ../../source/sample/dati.rst:4
+msgid ""
+"I dati raccolti sono `qui <https://docs.google.com/spreadsheets/d/e"
+"/2PACX-"
+"1vSe8__fQMlVJUIHbq0ZhmFRRKPciwpyn2143rwuVfQLAunZxw1JnAweUB9_j2xhPNGCDyLnZ9GOcQh6/pub?gid=0&single=true&output=csv/>`_"
+msgstr ""
+
+#: ../../source/sample/dati.rst:6
+msgid ""
+"Sono organizzati in forma matriciale: una tabella con una riga per ogni "
+"questionario compilato e una colonna per ogni domanda. All'incrocio si "
+"trova la risposta codificata data nel questionario/riga per la "
+"domanda/colonna."
+msgstr ""
+

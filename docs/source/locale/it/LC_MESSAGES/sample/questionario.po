@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Fausto Zanasi
+# This file is distributed under the same license as the Museo Gemma:
+# indagine statistica conoscitiva sui frequentatori package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Museo Gemma: indagine statistica conoscitiva sui "
+"frequentatori 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-20 07:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/sample/questionario.rst:2
+msgid "Questionario"
+msgstr ""
+
+#: ../../source/sample/questionario.rst:3
+msgid "Il questionario originale è questo:"
+msgstr ""
+
+#: ../../source/sample/questionario.rst:17
+msgid ""
+"Ma, per permetterne un trattamento statistico computazionale, sia le "
+"domande che le risposta sono state tutte codificate. Il codice della "
+"domanda ha la forma *D1...Dn*. Le risposte ricevono un codice numerico a "
+"partire da 1. Quindi, il questionario a cui si fa riferimento in seguito "
+"assume questa forma."
+msgstr ""
+

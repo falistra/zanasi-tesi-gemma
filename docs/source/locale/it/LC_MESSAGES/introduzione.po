@@ -1,0 +1,46 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Fausto Zanasi
+# This file is distributed under the same license as the Museo Gemma:
+# indagine statistica conoscitiva sui frequentatori package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Museo Gemma: indagine statistica conoscitiva sui "
+"frequentatori 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-20 07:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/introduzione.rst:2
+msgid "Introduzione"
+msgstr ""
+
+#: ../../source/introduzione.rst:4
+msgid ""
+"Il 17 Settembre 2021 è stata inaugurata a Modena presso il `Museo Gemma "
+"<https://www.museogemma.unimore.it/>`_ la mostra temporanea `CONFINI. "
+"Limiti mobili in una realtà che muta "
+"<https://www.museogemma.unimore.it/2021/09/02/confini-limiti-mobili-in-"
+"una-realta-che-muta/>`_."
+msgstr ""
+
+#: ../../source/introduzione.rst:9
+msgid ""
+"I visitatori sono stati invitati a compilare un questionario le cui "
+"domande riguardavano la loro esperienza di visita."
+msgstr ""
+
+#: ../../source/introduzione.rst:12
+msgid ""
+"Il presente lavoro intente esporre i risultati dell'analisi statistica "
+"compiuta sui dati raccolti."
+msgstr ""
+

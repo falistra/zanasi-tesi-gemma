@@ -1,0 +1,41 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Fausto Zanasi
+# This file is distributed under the same license as the Museo Gemma:
+# indagine statistica conoscitiva sui frequentatori package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Museo Gemma: indagine statistica conoscitiva sui "
+"frequentatori 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-20 07:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/statistiche/descrittive/anagrafiche/eta.rst:2
+msgid "Età"
+msgstr ""
+
+#: ../../source/statistiche/descrittive/anagrafiche/eta.rst:7
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur "
+"odio in mi blandit, et rhoncus mauris porta. Curabitur vel dapibus velit."
+" Suspendisse mattis, nulla non fermentum tempor, augue lacus tempus orci,"
+" sed mollis ex massa quis diam. Sed sed mi eget velit convallis imperdiet"
+" vel sed tellus. Fusce condimentum facilisis ex, non lacinia tortor "
+"convallis nec. Vivamus pharetra turpis sed vehicula gravida. Integer "
+"ullamcorper viverra ipsum et finibus. Fusce sem leo, fringilla sit amet "
+"viverra vel, dapibus elementum sem. Suspendisse id maximus neque. Donec "
+"fringilla cursus ultricies. Sed dui nibh, lacinia vehicula justo nec, "
+"porttitor facilisis nunc. Praesent enim mauris, eleifend vitae orci vel, "
+"faucibus posuere est. Nulla arcu lorem, condimentum vel est et, interdum "
+"commodo ante."
+msgstr ""
+

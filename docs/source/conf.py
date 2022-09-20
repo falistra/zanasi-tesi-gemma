@@ -38,3 +38,14 @@ epub_show_urls = 'footnote'
 
 html_static_path = ['_static']
 html_css_files = ['css/custom.css']
+html_logo = "survey.png"
+html_show_sourcelink = False
+
+html_theme_options = {
+    'logo_only': False,
+    'display_version': False,
+    'navigation_depth': 5,
+    }
+
+locale_dirs = ['locale/']   # path is example but recommended.
+gettext_compact = False     # optional.

@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Fausto Zanasi
+# This file is distributed under the same license as the Museo Gemma:
+# indagine statistica conoscitiva sui frequentatori package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Museo Gemma: indagine statistica conoscitiva sui "
+"frequentatori 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-20 07:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/index.rst:4
+msgid "*Il museo Gemma di Modena*"
+msgstr ""
+
+#: ../../source/index.rst:6
+msgid "**Indagine statistica conoscitiva sui frequentatori**"
+msgstr ""
+
+#: ../../source/index.rst:18
+msgid "**Laurea Magistrale in Didattica e Comunicazione delle Scienze**"
+msgstr ""
+
+#: ../../source/index.rst:18
+msgid "**Tesi di Laurea di Fausto Zanasi - matricola 154554**"
+msgstr ""
+
+#: ../../source/index.rst:18
+msgid "*Anno Accademico 2021-2022*"
+msgstr ""
+
+#: ../../source/index.rst:22
+msgid "Questo documento è in stato di bozza soggetto a modifiche."
+msgstr ""
+
+#: ../../source/index.rst:27
+msgid "Contenuti"
+msgstr ""
+

@@ -1,0 +1,179 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2022, Fausto Zanasi
+# This file is distributed under the same license as the Museo Gemma:
+# indagine statistica conoscitiva sui frequentatori package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Museo Gemma: indagine statistica conoscitiva sui "
+"frequentatori 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-20 07:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.1\n"
+
+#: ../../source/sample/features.rst:2
+msgid "Domande"
+msgstr ""
+
+#: ../../source/sample/features.rst:4
+msgid ""
+"La tabella seguente contiene la liste delle coppie codice-testo delle "
+"domande."
+msgstr ""
+
+#: ../../source/sample/features.rst:6
+msgid "Domande e risposte"
+msgstr ""
+
+#: ../../source/sample/features.rst:10
+msgid "Codice"
+msgstr ""
+
+#: ../../source/sample/features.rst:11
+msgid "Testo"
+msgstr ""
+
+#: ../../source/sample/features.rst:12
+msgid "D1"
+msgstr ""
+
+#: ../../source/sample/features.rst:13
+msgid "È la prima volta che visita il Museo Universitario Gemma?"
+msgstr ""
+
+#: ../../source/sample/features.rst:14
+msgid "D2"
+msgstr ""
+
+#: ../../source/sample/features.rst:15
+msgid "Come ne è venuto a conoscenza?"
+msgstr ""
+
+#: ../../source/sample/features.rst:16
+msgid "D3"
+msgstr ""
+
+#: ../../source/sample/features.rst:17
+msgid "Con chi ha visitato il Museo?"
+msgstr ""
+
+#: ../../source/sample/features.rst:18
+msgid "D4"
+msgstr ""
+
+#: ../../source/sample/features.rst:19
+msgid "Per quale motivo ha visitato il Museo?"
+msgstr ""
+
+#: ../../source/sample/features.rst:20
+msgid "D5"
+msgstr ""
+
+#: ../../source/sample/features.rst:21
+msgid "Dove abita?"
+msgstr ""
+
+#: ../../source/sample/features.rst:22
+msgid "D6"
+msgstr ""
+
+#: ../../source/sample/features.rst:23
+msgid "Sesso"
+msgstr ""
+
+#: ../../source/sample/features.rst:24
+msgid "D7"
+msgstr ""
+
+#: ../../source/sample/features.rst:25
+msgid "Età"
+msgstr ""
+
+#: ../../source/sample/features.rst:26
+msgid "D8"
+msgstr ""
+
+#: ../../source/sample/features.rst:27
+msgid "Qual è il suo titolo di studio?"
+msgstr ""
+
+#: ../../source/sample/features.rst:28
+msgid "D9"
+msgstr ""
+
+#: ../../source/sample/features.rst:29
+msgid "Quanto tempo è durata la visita alla mostra CONFINI?"
+msgstr ""
+
+#: ../../source/sample/features.rst:30
+msgid "D10"
+msgstr ""
+
+#: ../../source/sample/features.rst:31
+msgid "In generale è soddisfatto della visita?"
+msgstr ""
+
+#: ../../source/sample/features.rst:32
+msgid "D11"
+msgstr ""
+
+#: ../../source/sample/features.rst:33
+msgid "Come si ritiene soddisfatto del percorso mostra ?"
+msgstr ""
+
+#: ../../source/sample/features.rst:34
+msgid "D12"
+msgstr ""
+
+#: ../../source/sample/features.rst:35
+msgid "Come si ritiene soddisfatto della visita guidata"
+msgstr ""
+
+#: ../../source/sample/features.rst:36
+msgid "D13"
+msgstr ""
+
+#: ../../source/sample/features.rst:37
+msgid "Come si ritiene soddisfatto della cortesia e competenza del personale ?"
+msgstr ""
+
+#: ../../source/sample/features.rst:38
+msgid "D14"
+msgstr ""
+
+#: ../../source/sample/features.rst:39
+msgid "Quale è il tema della mostra CONFINI che ha trovato di maggior interesse"
+msgstr ""
+
+#: ../../source/sample/features.rst:40
+msgid "D15"
+msgstr ""
+
+#: ../../source/sample/features.rst:41
+msgid ""
+"Quale è il tema parola chiave della mostra CONFINI che è rimasto più "
+"impresso"
+msgstr ""
+
+#: ../../source/sample/features.rst:42
+msgid "D16"
+msgstr ""
+
+#: ../../source/sample/features.rst:43
+msgid "Altre osservazioni e suggerimenti"
+msgstr ""
+
+#: ../../source/sample/features.rst:45
+msgid ""
+"La tabella seguente mostra la relazione tra (il codice del)le domande e "
+"la codifica delle risposte."
+msgstr ""
+

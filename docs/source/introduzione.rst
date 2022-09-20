@@ -9,6 +9,6 @@ la mostra temporanea
 I visitatori sono stati invitati a compilare un questionario le cui domande
 riguardavano la loro esperienza di visita.
 
-Il presente lavoro intente esporre i risultati dell'analisi statistica compiuta 
+Il presente lavoro intende esporre i risultati dell'analisi statistica compiuta 
 sui dati raccolti.
 
