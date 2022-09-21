@@ -5,3 +5,4 @@ Statistiche
     :glob:
 
     statistiche/descrittive
+    statistiche/inferente

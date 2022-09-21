@@ -1,6 +1,12 @@
 Statistiche descrittive
 =======================
 
+La connotazione "descrittiva" significa che la statistica va intesa come una **descrizione sintetica** dei dati.
+Questi **non** vengono considerati come un campione estratto casualmente da una popolazione teorica che potremmo chiamare
+*tutti i possibili visitatori del Museo*, ma come un insieme di dati a se stante per il quale si vuole avere 
+un'idea sintetica.
+
+
 Tutti i dati raccolti, le risposte date dagli intervistati alle domande, sono di tipo categoriale.
 Per esempio *"Sesso": {1:Maschio , 2:Femmina}*, o *"Titolo di studio": {1:Elementare, 2:Medie inferiori...}*.
 Per questo tipo di dati non è possibile definire una metrica, una distanza tra valori e quindi non è possibile calcolare statistiche come media, varianza, massimi o minimi.

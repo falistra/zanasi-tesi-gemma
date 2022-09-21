@@ -1,6 +1,6 @@
 .. rst-class:: center
 
-*Il museo Gemma di Modena*
+*Il Museo Gemma di Modena*
 ==========================
 **Indagine statistica conoscitiva sui frequentatori** 
 ======================================================
