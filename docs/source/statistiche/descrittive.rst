@@ -6,7 +6,8 @@ Per esempio *"Sesso": {1:Maschio , 2:Femmina}*, o *"Titolo di studio": {1:Elemen
 Per questo tipo di dati non è possibile definire una metrica, una distanza tra valori e quindi non è possibile calcolare statistiche come media, varianza, massimi o minimi.
 La statistica fondamentale che è possibile calcolare è la distribuzione di frequenza: la frequenza relativa di ogni risposta data sul numero di risposte valide, per esempio *percentuale di maschi sul totale*.
 
-Per tutte le variabili viene mostrate nel seguito la distribuzione di frequenza,
+Per tutte le variabili vengono mostrate nel seguito la distribuzione di frequenza, in valore assoluto e in percentuale,
+e un grafico a torta che, in molti casi non considera le mancate risposte.
 
 Una distinzione importante, non statistica ma metodologica, è quella tra variabili (domande) *anagrafiche*
 e variabili *comportamentali*:
