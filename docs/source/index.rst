@@ -31,3 +31,5 @@ Contenuti
    introduzione
    sondaggio
    stat
+   conclusione
+   appendici
