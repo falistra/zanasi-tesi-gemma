@@ -7,7 +7,7 @@ la mostra temporanea
 `CONFINI. Limiti mobili in una realtà che muta <https://www.museogemma.unimore.it/2021/09/02/confini-limiti-mobili-in-una-realta-che-muta/>`_.
 
 I visitatori sono stati invitati a compilare un questionario le cui domande
-riguardavano la loro esperienza di visita.
+riguardavano la loro esperienza di visita. :term:`dashboard`
 
 Il presente lavoro intende esporre i risultati dell'analisi statistica compiuta 
 sui dati raccolti.
