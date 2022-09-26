@@ -7,6 +7,7 @@ che hanno oltre 65 anni il 7% e la classe maggiormente rappresentata, il 35%, è
 
 La divesa età del visitatore si riflette sulla modalità di vista, nel senso della domanda D3 
 :doc:`Con chi...? </statistiche/descrittive/comportamentali/con-chi>`:
+
   - **i due terzi dei visitatori sotto i 18 e il 50% di quelli tra 18 e 30 anni hanno fatto la visita con parenti/amici**
   - **il 50% dei maggiori di 65 anni ha visitato la mostra in coppia**.
 
@@ -42,6 +43,7 @@ da quando, nella vita di una persona, si affrontano i diversi livelli scolastici
 
 La durata della visita :doc:`domanda D9 </statistiche/descrittive/comportamentali/mostra/tempo>` risulta
 significativamente correlata con l'età. 
+
   - il 60% dei visitatori con meno di 30 anni dichiara di aver impiegato meno di 30 minuti, contro il 30% di coloro che hanno piú di 65 anni
   - il 60% dei visitatori con piú di 65 anni dichiara di aver impiegato da 30 minuti a un ora, contro il 30% di coloro che hanno meno di 30 anni
 
@@ -58,6 +60,7 @@ significativamente correlata con l'età.
 
 La correlazione tra età e livello di soddisfazione della visita alla mostra :doc:`domanda D10 </statistiche/descrittive/comportamentali/mostra/soddisfatto-visita>`
 si caratterizza per: 
+
   - il 60% dei visitatori con piú di 65 anni è molto soddisfatto, il 50% abbastanza, messuno non lo è
   - tra i 18 e i 45 anni, i molto soddisfatti sono tra il 30% e il 40%, il 9% per niente o poco.
 
@@ -74,6 +77,7 @@ si caratterizza per:
 
 La correlazione tra età e livello di soddisfazione del percorso della mostra :doc:`domanda D11 </statistiche/descrittive/comportamentali/mostra/soddisfatto-visita>`
 è analogo a quella precedente, ma in generale con un livello inferiore: 
+
   - il 40% dei visitatori con piú di 65 anni è molto soddisfatto, il 60% abbastanza, messuno non lo è
   - tra i 18 e i 45 anni, i molto soddisfatti sono tra il 20% e il 30%, il 7% per niente o poco.
 
@@ -90,12 +94,13 @@ La correlazione tra età e livello di soddisfazione del percorso della mostra :d
 
 La correlazione tra età e livello di soddisfazione della visita guidata alla mostra :doc:`domanda D12 </statistiche/descrittive/comportamentali/mostra/soddisfatto-visita>`
 è analogo a quelli precedente, ma con una piú marcata differenziazione per età: 
+
   - il 72% dei visitatori con piú di 65 anni è molto soddisfatto contro il 20%-30% rispettivamente dei minori di 18 anni e dei sitatori da 18 a 30
 
 
 .. note::
 
-  In generale il gradimento del percorso della mostra cresce grandemente all'aumentare dell'età. I giovani sono molto meno soddisfatti
+  In generale il gradimento della visita guidata alla mostra cresce grandemente all'aumentare dell'età. I giovani sono molto meno soddisfatti
   dei piú anziani.
 
 

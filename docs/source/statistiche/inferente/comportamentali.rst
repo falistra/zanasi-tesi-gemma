@@ -12,7 +12,7 @@ Alla stessa domanda, in D11:
 
 .. note::
 
-  Chi ha apprezzato la visita, abbastanza o molto, è stato parimenti soddisfatto del percorso della mostra
+  Chi ha apprezzato la visita al Museo, abbastanza o molto, è stato parimenti soddisfatto del percorso della mostra
   
 .. image:: images/d10_d11_1.png
   :width: 500

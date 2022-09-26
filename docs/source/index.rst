@@ -4,12 +4,12 @@
 ==========================
 **Indagine statistica conoscitiva sui frequentatori** 
 ======================================================
+..
+  .. image:: images/logo_unimore.png
+    :width: 100
 
-.. image:: images/logo_unimore.png
-  :width: 100
-
-.. image:: images/banner_unimore.png
-  :width: 200
+  .. image:: images/banner_unimore.png
+    :width: 200
 
 .. rst-class:: center
 
