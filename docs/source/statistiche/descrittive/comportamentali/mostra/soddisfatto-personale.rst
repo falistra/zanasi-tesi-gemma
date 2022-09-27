@@ -2,5 +2,5 @@
 ========================================================
 
 .. image:: images/SoddisfattoPersonale.png
-  :width: 500
+  :width: 700
 

@@ -2,5 +2,5 @@
 =====================================
 
 .. image:: images/SoddisfattoVisita.png
-  :width: 500
+  :width: 700
 

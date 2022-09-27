@@ -2,5 +2,5 @@
 ===========================
 
 .. image:: images/Soddisfatto.png
-  :width: 500
+  :width: 700
 

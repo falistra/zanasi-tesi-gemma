@@ -13,7 +13,7 @@ Alla stessa domanda D11:
 
 .. note::
 
-  Se ne conclude che la soddisfazione per il percorso guidato della mostra è stata minore 
+  La soddisfazione per il percorso guidato della mostra è stata minore 
   negli uomini mentre le donne hanno dato un giudizio maggiormente positivo 
 
 .. image:: images/sesso_d11_1.png

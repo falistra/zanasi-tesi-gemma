@@ -29,5 +29,5 @@ nella visita fra maschi e femmine?*
 
 .. toctree::
 
-   descrittive/anagrafiche
-   descrittive/comportamentali
+   descrittive/anagrafiche/
+   descrittive/comportamentali/

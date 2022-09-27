@@ -2,5 +2,5 @@
 ===========================
 
 .. image:: images/SoddisfattoPercorso.png
-  :width: 500
+  :width: 700
 

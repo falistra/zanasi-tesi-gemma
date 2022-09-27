@@ -2,5 +2,5 @@
 ===========================================
 
 .. image:: images/PrimaVolta.png
-  :width: 500
+  :width: 700
 
