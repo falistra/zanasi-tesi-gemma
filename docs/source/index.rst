@@ -17,9 +17,6 @@
  **Tesi di Laurea di Fausto Zanasi - matricola 154554**
    *Anno Accademico 2021-2022*
 
-.. note::
-
-   Questo documento è in stato di bozza soggetto a modifiche.
 
 .. rst-class:: left
 
