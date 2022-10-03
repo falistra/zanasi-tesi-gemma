@@ -36,6 +36,5 @@ Contenuti
    stat
    conclusione
    appendici
-   
-..   
-   glossary
+..
+     glossary

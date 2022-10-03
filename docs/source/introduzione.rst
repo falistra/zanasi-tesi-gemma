@@ -13,7 +13,7 @@ I visitatori sono stati invitati a compilare un questionario le cui domande
 riguardavano la loro esperienza di visita. 
 
 ..
-    :term:`dashboard`
+    :term:`Sphinx`
 
 Il presente lavoro intende esporre i risultati dell'analisi statistica compiuta 
 sui dati raccolti.
