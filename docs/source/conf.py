@@ -49,3 +49,12 @@ html_theme_options = {
 
 locale_dirs = ['locale/']   # path is example but recommended.
 gettext_compact = False     # optional.
+
+latex_elements = {
+    'utf8extra':   ('\\ifdefined\\DeclareUnicodeCharacter\n'
+                        ' \\ifdefined\\DeclareUnicodeCharacterAsOptional\\else\n'
+                        '  \\DeclareUnicodeCharacter{1D6D8}{\\nobreakspace}\n'
+                        '  \\DeclareUnicodeCharacter{03C7}{\\nobreakspace}\n'
+                        '  \\DeclareUnicodeCharacter{274C}{\\nobreakspace}\n'
+                        '\\fi\\fi'),
+}
