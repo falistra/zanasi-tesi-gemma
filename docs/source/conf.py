@@ -6,8 +6,8 @@ project = 'Museo Gemma: indagine statistica conoscitiva sui frequentatori'
 copyright = '2022, Fausto Zanasi'
 author = 'Fausto Zanasi'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '0.1.28'
 
 # -- General configuration
 
